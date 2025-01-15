@@ -10,7 +10,7 @@ Presley McFarlane-Goolcharan
 
 ## First git status output:
 
-[On branch main 
+[On branch main
 Your branch is up to date with 'origin/main'.]
 
 ## Second git status output:
@@ -25,7 +25,7 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")]
 
-## Purpose of the following Commands:
+## Purpose of the following Commands: 
 
 - `mkdir`: [allows you to create directories]
 - `cd`: [change the present working directory]
@@ -61,4 +61,4 @@ There are things that set me apart from others:
 - I have the will power of 10,000 men.
 - I can jump really high.
 - I've watched Space Jam over 100 times.
-- I have two tuxedo cats. 
+- I have two tuxedo cats.  
