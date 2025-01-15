@@ -43,16 +43,16 @@ With version control, it is possible to:
 
 ## Purpose of the following Git Commands
 
-- `git init`: [creates a new git repository in specified destination]
-- `git status`: [provides current status on git repository]
-- `git add`: [prepares files to be saved to local git repository]
-- `git commit`: [saves changes to files in local git repository]
-- `git push`: [pushes changes made from local to remote repository]
-- `git pull`: [pulls changes made from remote repository and merges them with local repository]
-- `git log`: [provides list of all saves in git repository with their respective descriptions]
-- `git branch`: [creates new copy of repository without affecting the main project repository]
-- `git merge`: [integrates changes made in separate branches of the repository with the main branch and it's changes]
-- `git checkout`: [changes the current branch being worked on]
+- `git init`: [Creates a new git repository in the specified destination.]
+- `git status`: [Provides the current status on the git repository.]
+- `git add`: [Prepares files to be saved to the local git repository.]
+- `git commit`: [Saves changes to files in the local git repository.]
+- `git push`: [Sends changes from the local repository to the remote repository.]
+- `git pull`: [Receives changes made from remote repository and merges them with local repository.]
+- `git log`: [Provides a list of all save data in the git repository with their respective descriptions.]
+- `git branch`: [Creates a new copy of the repository without affecting the main project repository].
+- `git merge`: [Integrates changes made in separate branches of the repository with the main branch and it's changes].
+- `git checkout`: [Changes the current branch of the repository currently worked on.]
 
 ## My Unique Touch
 
