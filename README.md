@@ -27,10 +27,10 @@ no changes added to commit (use "git add" and/or "git commit -a")]
 
 ## Purpose of the following Commands: 
 
-- `mkdir`: [allows you to create directories]
-- `cd`: [change the present working directory]
-- `code`: [launch Visual Studio Code]
-- `ls`: [view all files within the specified directory]
+- `mkdir`: [Allows you to create directories.]
+- `cd`: [Changes the present working directory.]
+- `code`: [Launches Visual Studio Code.]
+- `ls`: [View all files within the specified directory.]
 
 ## Why Version Control is Important
 
@@ -50,8 +50,8 @@ With version control, it is possible to:
 - `git push`: [Sends changes from the local repository to the remote repository.]
 - `git pull`: [Receives changes made from remote repository and merges them with local repository.]
 - `git log`: [Provides a list of all save data in the git repository with their respective descriptions.]
-- `git branch`: [Creates a new copy of the repository without affecting the main project repository].
-- `git merge`: [Integrates changes made in separate branches of the repository with the main branch and it's changes].
+- `git branch`: [Creates a new copy of the repository without affecting the main project repository.]
+- `git merge`: [Integrates changes made in separate branches of the repository with the main branch and it's changes.]
 - `git checkout`: [Changes the current branch of the repository currently worked on.]
 
 ## My Unique Touch
